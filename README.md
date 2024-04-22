@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pratham Shah
 - 👀 I’m interested in computer science domain which includes coding, designing and problem solving. With that i would like to work upon software developing Projects.
 - - 🌱 I’m currently learning as in a computer science (major)
-- 💞️ I’m looking to collaborate on various projects, learning new thing new domains and other software related services.
+- 💞️ I’m looking to collaborate on various projects, learning new things,new domains and other software related services.
 - 📫 ping me on my e-mail (shahpratham1253@gmail.com)
 - 😄 Pronouns: he/him...
 - ⚡ Fun fact:  ...
