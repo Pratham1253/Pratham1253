@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on various projects, learning new things,new domains and other software related services.
 - 📫 ping me on my e-mail (shahpratham1253@gmail.com)
 - 😄 Pronouns: he/him...
-- 
+  
   
 
 <!---
