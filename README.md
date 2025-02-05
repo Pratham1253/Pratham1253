@@ -9,6 +9,10 @@
 - ⚡ Fun fact: Why did the coder bring a ladder to work?
 Because they wanted to scale up the project! 🚀👨‍💻
 
+Languages
+
+![download](https://github.com/user-attachments/assets/f3e9688b-a18b-4854-a4b8-5457935da921)
+
 <!---
 Pratham1253/Pratham1253 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
